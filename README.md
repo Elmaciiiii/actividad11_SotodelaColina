@@ -25,14 +25,14 @@ Este proyecto es una mini aplicación web que permite **reproducir música en un
   - Animación de partículas que reaccionan al volumen de la música.
 
 ---
-## 🧪 Instrucciones para Probar el Proyecto del Mashup Visual
+## 🧪 Instrucciones para Probar el Proyecto de la Caja de Música
 
-Para probar la aplicación de dibujo y animaciones interactivas, seguí estos pasos:
+Para probar la aplicación de audio y visualizaciones interactivas, seguí estos pasos:
 
 ---
 
 1. **Descargar el proyecto desde GitHub:**
-   * Ve a esta página: [https://github.com/Elmaciiiii/actividad12_SotodelaColina.git](https://github.com/Elmaciiiii/actividad12_SotodelaColina.git)
+   * Ve a esta página: [https://github.com/Elmaciiiii/actividad11_SotodelaColina.git](https://github.com/Elmaciiiii/actividad11_SotodelaColina.git)
    * Haz clic en el botón verde que dice **"Code"**.
    * Elegí la opción **"Download ZIP"** y guardá el archivo en tu computadora.
 
@@ -40,7 +40,7 @@ Para probar la aplicación de dibujo y animaciones interactivas, seguí estos pa
 
 2. **Extraer el archivo ZIP:**
    * Buscá el archivo ZIP descargado y hacé clic derecho para **extraer su contenido**.
-   * Se creará una carpeta llamada `actividad12_SotodelaColina-main` o similar.
+   * Se creará una carpeta llamada `actividad11_SotodelaColina-main` o similar.
 
 ---
 
@@ -60,13 +60,12 @@ Para probar la aplicación de dibujo y animaciones interactivas, seguí estos pa
 
 ---
 
-5. **Interactuar con el mashup visual:**
-   * Dibujá en el canvas superior usando el mouse y el teclado para cambiar color o forma.
-   * Presioná `B` para borrar con goma o `E` para limpiar todo.
-   * Hacé clic en “Guardar imagen” para descargar tu dibujo en PNG.
-   * En el segundo canvas, hacé clic para generar figuras que se animan solas.
-   * Usá el botón “Reiniciar Processing” para limpiar las animaciones.
+5. **Interactuar con la caja musical:**
+   * Presioná **Reproducir** para escuchar la música.
+   * Mirá cómo se animan las partículas y la onda de sonido.
+   * Probá adelantar, retroceder o reiniciar la pista con los botones.
 
+---
 ## 📁 Estructura de Archivos
 ```plaintext
 .
